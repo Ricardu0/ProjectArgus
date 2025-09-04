@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe6ae2a4-2e7e-4d85-bc9a-f56a43231c1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/Aibot.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/components/Aibot.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ricardu0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ricardu0/ProjectArgus.git",
+    "accountId": "803b85a9-bd9f-4161-827e-fabbd2ee554f"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zk4OpYwP1fg1N6js1dB8oOsI6o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Rikar/WebstormProjects/Argusdef",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/Rikar/AppData/Roaming/JetBrains/WebStorm2025.1/node/versions/20.15.0/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.npm start.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rikar\WebstormProjects\untitled\src\view\components" />
+      <recent name="C:\Users\Rikar\WebstormProjects\untitled\src\controller\api" />
+      <recent name="C:\Users\Rikar\WebstormProjects\untitled\src" />
+      <recent name="C:\Users\Rikar\WebstormProjects\untitled\src\controller" />
+      <recent name="C:\Users\Rikar\WebstormProjects\untitled\src\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6ae2a4-2e7e-4d85-bc9a-f56a43231c1d" name="Changes" comment="" />
+      <created>1752261707468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752261707468</updated>
+      <workItem from="1752261708529" duration="8744000" />
+      <workItem from="1752449618391" duration="7597000" />
+      <workItem from="1752515820885" duration="9394000" />
+      <workItem from="1752542751150" duration="4338000" />
+      <workItem from="1752599473660" duration="10153000" />
+      <workItem from="1752686802973" duration="4579000" />
+      <workItem from="1752782356573" duration="5824000" />
+      <workItem from="1752862217909" duration="4526000" />
+      <workItem from="1752954950253" duration="702000" />
+      <workItem from="1752961149384" duration="3054000" />
+      <workItem from="1753026934103" duration="4840000" />
+      <workItem from="1753116412051" duration="12653000" />
+      <workItem from="1753203385900" duration="11438000" />
+      <workItem from="1753296673681" duration="3840000" />
+      <workItem from="1753309079464" duration="2552000" />
+      <workItem from="1753379194072" duration="16362000" />
+      <workItem from="1753465554674" duration="1007000" />
+      <workItem from="1753480001243" duration="4904000" />
+      <workItem from="1753548108514" duration="12668000" />
+      <workItem from="1753728765970" duration="4583000" />
+      <workItem from="1753814318453" duration="6049000" />
+      <workItem from="1753912578857" duration="1405000" />
+      <workItem from="1753917375065" duration="1156000" />
+      <workItem from="1753980096686" duration="6956000" />
+      <workItem from="1753999881861" duration="3526000" />
+      <workItem from="1754076490980" duration="9054000" />
+      <workItem from="1754152062088" duration="14837000" />
+      <workItem from="1754240828319" duration="6715000" />
+      <workItem from="1754333693181" duration="14551000" />
+      <workItem from="1754421463309" duration="10912000" />
+      <workItem from="1754485358041" duration="15190000" />
+      <workItem from="1754582627852" duration="4915000" />
+      <workItem from="1754665189901" duration="6299000" />
+      <workItem from="1754770267669" duration="598000" />
+      <workItem from="1754855373271" duration="674000" />
+      <workItem from="1754927071237" duration="8631000" />
+      <workItem from="1755014501375" duration="3978000" />
+      <workItem from="1755101066786" duration="9021000" />
+      <workItem from="1755286341310" duration="3401000" />
+      <workItem from="1755382517433" duration="4418000" />
+      <workItem from="1755534822785" duration="14939000" />
+      <workItem from="1755621053148" duration="6600000" />
+      <workItem from="1755796231234" duration="5084000" />
+      <workItem from="1755883487339" duration="7351000" />
+      <workItem from="1756398273711" duration="139000" />
+      <workItem from="1756411559914" duration="1593000" />
+      <workItem from="1756506850473" duration="2540000" />
+      <workItem from="1756578209435" duration="4699000" />
+      <workItem from="1756600005273" duration="657000" />
+      <workItem from="1756676603199" duration="537000" />
+      <workItem from="1756764582229" duration="632000" />
+      <workItem from="1756765761153" duration="93000" />
+      <workItem from="1756766157057" duration="1047000" />
+      <workItem from="1756950356885" duration="6729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
